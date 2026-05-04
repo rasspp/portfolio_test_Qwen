@@ -1,0 +1,59 @@
+```
+# Dependencies
+node_modules/
+
+# Environment variables
+.env.local
+.env
+
+# Next.js
+.next/
+out/
+
+# Build outputs
+dist/
+build/
+target/
+
+# Cache directories
+.cache/
+.node_modules/
+.npm/
+.yarn/
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python related (if any Python in project)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# Prisma
+prisma/migrations/
+prisma/schema.prisma.bak
+
+# Coverage reports
+coverage/
+*.coverage
+.htmlcov/
+
+# Temporary files
+*.tmp
+*.temp
+```
