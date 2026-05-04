@@ -6,7 +6,7 @@ export default function Home() {
       <Hero
         title="Creative Developer"
         subtitle="Building bold digital experiences with modern technologies"
-        backgroundImage="/images/hero-home.jpg"
+        backgroundImage="/bg.png"
         ctaText="View My Work"
         ctaLink="/projects"
       />
